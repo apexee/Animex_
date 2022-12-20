@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+				<meta charset="UTF-8">
+				<title>website designing</title>
+				<link rel="stylesheet" href="styl.css">
+</head>
+<body>
+		<header>
+			<div class="container">
+			<div id="branding">
+				<img src="animexx.png" alt="" height="100px">
+				
+			</div>
+			<nav>
+			<ul>
+  <li><a href="new.html"><b>Sign up</b></a></li>
+<li><a href="yansh.html"><b>Start Membership</b></a></li>
+			</ul>
+			</nav>
+			
+							
+			</div>			
+		</header>
+		<section id="showcase">
+			<div class="container">
+							
+			</div>	
+						
+		</section>
+<section id="newsletter">
+				<div class="container">
+					<h1>Subscribe to our newsletter</h1>
+								<form>
+<input type="email" placeholder="your email address">
+<button type="submit" class="button_1">Subscribe</button>
+								</form>
+				</div>
+				
+</section>
+<section id="boxes">
+				<div class="container">
+								<div class="box">
+									<a href="services.html" target="_blank">
+			<img src="AOT.jpg" alt="" height="200px">
+			<h3>Attack on Titans</h3>
+			</a>
+
+								</div>
+								<div class="box">
+								<a href="about.html" target="_blank">
+								<img src="Plunderer.jpg" alt="" height="200px">
+							<h3>The Plunderer</h3>
+		                      </a>
+								</div>
+								<div class="box">
+									<a href="x.html" target="_blank">
+										<img src="Naruto.jpeg" alt="" height="200px" >
+										<h3>Naruto</h3>
+										</a>
+										
+									
+													
+													
+								
+									
+													
+										
+										
+
+												
+								</div>
+				</div>
+				
+				
+				
+</section>
+<footer><p>Animex,copywright©2022</p></footer>
+</body>
+</html>
